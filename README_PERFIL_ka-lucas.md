@@ -23,4 +23,4 @@ Os repositórios fixados abaixo cobrem os três eixos que mais me interessam:
 
 📫 [LinkedIn](https://linkedin.com/in/katarine-melo-013221216) · katarinelucas1@gmail.com
 
-
+---
