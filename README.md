@@ -1,16 +1,16 @@
 # Olá, eu sou a Katarine 👋
 
-Engenheira de Software, formando em **Engenharia Eletrônica e de Computação pela UFRJ**.
+Engenheira de Software no Rio de Janeiro · **Engenharia Eletrônica e de Computação na UFRJ**.
 
-Trabalho com **Python** em backend, dados e cloud. Hoje desenvolvo pipelines de dados e
-aplicações analíticas para o setor de energia na **Eneva**, e atuo em uma plataforma SaaS B2B
+Trabalho com **Python** em backend, dados e cloud. Hoje construo pipelines ETL/ELT, APIs e o portal
+analítico em Streamlit para o setor de energia na **Eneva**, e atuo em uma plataforma SaaS B2B
 na **Review My Emails**, do backend em FastAPI ao frontend em Next.js.
 
 ### O que eu uso no dia a dia
 
 ```
 Backend      Python · FastAPI · Django · Flask · API REST
-Dados        ETL · PostgreSQL · pandas · Power BI · Streamlit
+Dados        ETL / ELT · PostgreSQL · BigQuery · pandas · Power BI · Streamlit
 Cloud        GCP · Cloud Run · Docker · Terraform · GitHub Actions
 Frontend     TypeScript · React · Next.js · Tailwind CSS
 IA           RAG · LLMs · agentes · busca vetorial
@@ -18,9 +18,8 @@ IA           RAG · LLMs · agentes · busca vetorial
 
 ### Projetos em destaque
 
-Os repositórios fixados abaixo cobrem os três eixos que mais me interessam:
-**infraestrutura e automação**, **dados** e **visão computacional**.
+Os repositórios fixados abaixo cobrem os eixos que mais me interessam:
+**backend e infraestrutura**, **dados** e **visão computacional**.
+Mais projetos, com vídeos e contexto, no meu site.
 
-📫 [LinkedIn](https://linkedin.com/in/katarine-melo-013221216) · katarinelucas1@gmail.com
-
----
+🌐 [ka-lucas.github.io](https://ka-lucas.github.io/pt/) · 💼 [LinkedIn](https://linkedin.com/in/katarine-melo-013221216) · 📫 katarinemelodev@gmail.com
