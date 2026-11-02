@@ -1,25 +1,24 @@
-# Olá, eu sou a Katarine 👋
+# Katarine Melo
 
-Engenheira de Software no Rio de Janeiro · **Engenharia Eletrônica e de Computação na UFRJ**.
+**Engenheira de Software · Backend Python, dados e cloud** · Rio de Janeiro
 
-Trabalho com **Python** em backend, dados e cloud. Hoje construo pipelines ETL/ELT, APIs e o portal
-analítico em Streamlit para o setor de energia na **Eneva**, e atuo em uma plataforma SaaS B2B
-na **Review My Emails**, do backend em FastAPI ao frontend em Next.js.
+Construo software de ponta a ponta, do entendimento do problema até mantê-lo estável em produção.
 
-### O que eu uso no dia a dia
+- **Eneva** · setor de energia: pipelines ETL/ELT em Python, cargas incrementais em PostgreSQL,
+  uma API interna em FastAPI e o portal analítico em Streamlit usado pelas áreas de negócio, tudo no GCP.
+- **Review My Emails** · SaaS B2B: funcionalidades completas, de serviços FastAPI com filas assíncronas
+  a telas em Next.js, com cobrança via Stripe e testes E2E no CI.
+- **TarsLabs**: liderei a refatoração do backend Django para Clean Architecture e reduzi em 40%
+  o tempo de resposta das APIs mais usadas.
 
 ```
-Backend      Python · FastAPI · Django · Flask · API REST
-Dados        ETL / ELT · PostgreSQL · BigQuery · pandas · Power BI · Streamlit
+Backend      Python · FastAPI · Django · Flask · SQLAlchemy · REST
+Dados        ETL / ELT · PostgreSQL · BigQuery · pandas · Streamlit · Power BI
 Cloud        GCP · Cloud Run · Docker · Terraform · GitHub Actions
 Frontend     TypeScript · React · Next.js · Tailwind CSS
 IA           RAG · LLMs · agentes · busca vetorial
 ```
 
-### Projetos em destaque
-
-Os repositórios fixados abaixo cobrem os eixos que mais me interessam:
-**backend e infraestrutura**, **dados** e **visão computacional**.
-Mais projetos, com vídeos e contexto, no meu site.
+Projetos com vídeo e contexto no meu site 👇
 
 🌐 [ka-lucas.github.io](https://ka-lucas.github.io/pt/) · 💼 [LinkedIn](https://linkedin.com/in/katarine-melo-013221216) · 📫 katarinemelodev@gmail.com
