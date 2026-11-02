@@ -7,7 +7,7 @@ Rio de Janeiro, Brazil
 
 <p>
   <a href="https://ka-lucas.github.io/en/"><img src="https://img.shields.io/badge/Portfolio-ka--lucas.github.io-0f766e?style=for-the-badge" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/katarine-melo-013221216"><img src="https://img.shields.io/badge/LinkedIn-Katarine_Melo-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/katarine-melo-013221216"><img src="https://img.shields.io/badge/LinkedIn-Katarine_Melo-0a66c2?style=for-the-badge" alt="LinkedIn"></a>
   <a href="mailto:katarinemelodev@gmail.com"><img src="https://img.shields.io/badge/Email-katarinemelodev-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -42,7 +42,7 @@ Rio de Janeiro, Brazil
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square" alt="Power BI">
 
 **Cloud & DevOps**<br>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud">
