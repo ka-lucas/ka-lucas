@@ -4,12 +4,16 @@
 
 Construo software de ponta a ponta, do entendimento do problema até mantê-lo estável em produção.
 
-- **Eneva** · setor de energia: pipelines ETL/ELT em Python, cargas incrementais em PostgreSQL,
-  uma API interna em FastAPI e o portal analítico em Streamlit usado pelas áreas de negócio, tudo no GCP.
-- **Review My Emails** · SaaS B2B: funcionalidades completas, de serviços FastAPI com filas assíncronas
-  a telas em Next.js, com cobrança via Stripe e testes E2E no CI.
-- **TarsLabs**: liderei a refatoração do backend Django para Clean Architecture e reduzi em 40%
-  o tempo de resposta das APIs mais usadas.
+### O que eu já entreguei
+
+- **Portal analítico completo** em Streamlit, alimentado por pipelines ETL/ELT em Python que trocaram
+  planilhas manuais por uma base única com cargas incrementais em PostgreSQL, rodando no GCP.
+- **APIs em FastAPI** com filas assíncronas e cache em Redis, que eliminaram timeouts no processamento de lotes grandes.
+- **Cobrança via Stripe** com webhooks idempotentes e política de retry: zero cobranças duplicadas.
+- **Refatoração de um backend Django** para Clean Architecture: −40% no tempo de resposta das APIs mais usadas.
+- **Detecção de objetos em tempo real** com YOLO e WebRTC, em containers que rodam em CPU e NVIDIA Jetson.
+
+### Stack
 
 ```
 Backend      Python · FastAPI · Django · Flask · SQLAlchemy · REST
